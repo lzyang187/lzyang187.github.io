@@ -1,0 +1,32 @@
+      
+{
+    "code":"0000",
+    "msg":"成功",
+    "course":[
+        {
+            "id":1000001,
+            "name":"数量关系",
+            "thumb":"https://lzyang187.github.io/sunyue/course/gongkao/outline.jpg"
+        },
+        {
+            "id":1000002,
+            "name":"言语理解与表达",
+            "thumb":"https://lzyang187.github.io/sunyue/course/gongkao/outline.jpg"
+        },
+        {
+            "id":1000003,
+            "name":"申论",
+            "thumb":"https://lzyang187.github.io/sunyue/course/gongkao/outline.jpg"
+        },
+        {
+            "id":1000004,
+            "name":"逻辑判断与推理",
+            "thumb":"https://lzyang187.github.io/sunyue/course/gongkao/outline.jpg"
+        },
+        {
+            "id":1000005,
+            "name":"资料分析",
+            "thumb":"https://lzyang187.github.io/sunyue/course/gongkao/outline.jpg"
+        }
+    ]
+}
